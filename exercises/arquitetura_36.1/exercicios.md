@@ -136,5 +136,3 @@ O método decode("UTF-8") vai ser útil para ler os dados oriundos da check_outp
 Os métodos split e strip vão ser úteis para limpar e separar as informações obtidas com os comandos;
 O método startswith vai ser útil para selecionar informações específicas.
 Se estiver muito difícil fazer a filtragem e limpeza dos dados, se contente com a exibição de informações a mais 😉
-Exercício 4 : Faça um script que, a cada intervalo de segundo, mostre no console a memória utilizada do sistema operacional vs a memória total (ambos em megabytes - MB ). Dica: você pode se basear no script do exercício anterior.
-Exercício 5 : Faça um script que exibe o seu respectivo process id utilizando o módulo os do Python e então fique em execução por um determinado tempo. Agora utilizando os comandos de monitoramento visto no conteúdo, exiba os processos em execução e então identifique o seu processo.
